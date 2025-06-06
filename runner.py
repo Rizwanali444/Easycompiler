@@ -1,1 +1,1 @@
-import easycompiler.so
+import easycompiler
