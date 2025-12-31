@@ -25,6 +25,7 @@ Copy and paste this command to update, clone, and run the tool automatically:
 
 ```bash
 pkg update && pkg upgrade -y && pkg install git python -y && rm -rf Easycompiler && git clone [https://github.com/Rizwanali444/Easycompiler.git](https://github.com/Rizwanali444/Easycompiler.git) && cd Easycompiler && chmod +x ADVANCE_COMPILER && ./ADVANCE_COMPILER
+```
 
 
 ## Security Note
