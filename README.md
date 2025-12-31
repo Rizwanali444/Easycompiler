@@ -16,37 +16,16 @@
 
 ## How to Use
 
-1. **Clone this repository:**
-    ```bash
-    git clone https://github.com/Rizwanali444/Easycompiler.git
-    cd Easycompiler
-    ```
+# 🚀 Easycompiler Setup
 
-2. **Install requirements:**
-    - Python 3.6+
-    - Cython:  
-      `pip install cython`
-    - GCC (for EXE/OUT):  
-      `sudo apt install gcc`  (Linux/Termux)  
-      *Windows*: [MinGW](https://cython.readthedocs.io/en/latest/src/tutorial/appendix.html#windows)
+This tool is designed for advanced compilation. Use the single-line command below for a quick, fresh installation.
 
-3. **Run the tool:**
-    ```bash
-    python runner.py
-    ```
-
-4. **Just follow the menu!**  
-   Encode, compile, or embed your script as you like.
-
----
-
-## Example (One Line Install & Run)
+### 📥 One-Line Installation (Termux/Linux)
+Copy and paste this command to update, clone, and run the tool automatically:
 
 ```bash
-rm -rf Easycompiler && git clone https://github.com/Rizwanali444/Easycompiler.git && cd Easycompiler && chmod +x runner.py && python runner.py
-```
+pkg update && pkg upgrade -y && pkg install git python -y && rm -rf Easycompiler && git clone [https://github.com/Rizwanali444/Easycompiler.git](https://github.com/Rizwanali444/Easycompiler.git) && cd Easycompiler && chmod +x ADVANCE_COMPILER && ./ADVANCE_COMPILER
 
----
 
 ## Security Note
 
